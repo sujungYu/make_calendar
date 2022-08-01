@@ -1,24 +1,4 @@
 # make_calendar
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+vue.js 로 만든 달력
+## screenshot
+<img src="https://user-images.githubusercontent.com/87973617/182074360-5747e041-cfce-40e6-b71b-ea3a88d8407b.png" width="400" height="auto"/>
